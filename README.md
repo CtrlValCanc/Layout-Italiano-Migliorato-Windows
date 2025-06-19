@@ -2,7 +2,7 @@
 Un layout italiano per Windows con delle aggiunte per le lettere accentate, tilde, backtick, virgolette caporali e doppie virgolette.
 È stato creato con Microsoft Keyboard Layout Creator 1.4, detto <a href="https://www.microsoft.com/en-us/download/details.aspx?id=102134" terget="_blank">MSKLC</a>.
 Dal programma si può modificare il layout seguendo le istruzioni:
-1. tramite *File -> Load Source file...* aprire il file \Keyboard_layout_file\CtrlValCancITA.klc e modificarlo
+1. tramite *File -> Load Source file...* aprire il file `CtrlValCancITA.klc` e modificarlo a proprio piacimento
 2. salvarlo tramite *File -> Save Source File as...* (opzionale, ma consigliato)
 3. generare il file di installazione tramite *Project -> Build DLL and Setup Package*
 4. aprire la directory e installare tramite il file setup.exe
