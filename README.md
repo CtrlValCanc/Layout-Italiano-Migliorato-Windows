@@ -12,7 +12,7 @@ Dal programma si può modificare il layout seguendo le istruzioni:
 ## Installazione
 1. scarica la [release corrente](https://github.com/CtrlValCanc/Layout-italiano-migliorato-Windows/releases) ed estrarla
 2. aprire il file setup.exe e seguire le indicazioni
-3. in basso a destra, vicino all'orario, selezionare il nuovo layout installato.
+3. in basso a destra, vicino all'orario, selezionare il nuovo layout installato
 4. rimuovere il vecchio layout (opzionale).
 
 ## Combinazioni aggiunte
