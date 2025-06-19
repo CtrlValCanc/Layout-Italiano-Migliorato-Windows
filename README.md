@@ -1,4 +1,4 @@
-# Layout-italiano-migliorato
+# Layout-italiano-migliorato-Windows -- CVC
 Un layout italiano per Windows con delle aggiunte per le lettere accentate, tilde, backtick, virgolette caporali e doppie virgolette.
 È stato creato con Microsoft Keyboard Layout Creator 1.4, detto <a href="https://www.microsoft.com/en-us/download/details.aspx?id=102134" terget="_blank">MSKLC</a>.
 Dal programma si può modificare il layout seguendo le istruzioni:
